@@ -13,5 +13,6 @@ Advising hayfever sufferers like myself on the best time to take preventative me
 Advising those that suffer from hayfever on when to begin to stock up on products.
 
 
+
 I have been met with many challenges when attempting to extract this data within the limitations of a 2017 Macbook Air. Therefore, my first upload is relates to
 extraction of prescribing data using through the CKAN API using requests and the use of Pandas to create a memory efficient dataframe.
