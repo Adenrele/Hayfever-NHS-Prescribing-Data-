@@ -14,10 +14,12 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 
 #Part One
-I have been met with many challenges when attempting to extract this data within the limitations of a 2017 Macbook Air. Therefore, my first upload is relates to
-extraction of prescribing data using through the CKAN API using requests and the use of Pandas to create a memory efficient dataframe.
+- Interrogate the CKAN API using Requests and read the datasets using Pandas.
+- Discuss memory, storage and time inefficiencies of this method.
 
 #Part Two
-- Use of SQL for more efficiency than was seen in part 1
-- Creating a simply distributed programe using AWS EC2 and XML-RPC
-- Simple Exploratory Data Analysis
+- Use SQL for more efficiency than was seen in part one.
+- Combine with ONS area classification data with NHS prescribing data.
+- Perpare Met Office pollen count data.
+- Create a simple distributed program using AWS EC2 and XML-RPC.
+- Simple exploratory data analysis.
