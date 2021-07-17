@@ -25,7 +25,7 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 - Combine ONS area classification data with NHS prescribing data.
 
-- Perpare Met Office pollen count data.
+- Perpare Met Office pollen count data. <b>(Information provided by the National Meteorological Library and Archive – Met Office, UK.)</b>
 
 - Create a simple distributed program using AWS EC2 and XML-RPC.
 
