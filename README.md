@@ -14,6 +14,7 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 
 
+
 <u><b>Part One </b></u>
 - Interrogate the CKAN API using Requests and read the datasets using Pandas.
 - Discuss memory, storage and time inefficiencies of this method.
