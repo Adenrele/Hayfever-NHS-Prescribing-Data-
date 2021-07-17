@@ -13,7 +13,8 @@ Advising hayfever sufferers like myself on the best time to take preventative me
 Advising those that suffer from hayfever on when to begin to stock up on products.
 
 
-Part One
+
+<b>Part One </b>
 - Interrogate the CKAN API using Requests and read the datasets using Pandas.
 - Discuss memory, storage and time inefficiencies of this method.
 
