@@ -23,7 +23,7 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 - Use SQL for more efficiency than was seen in part one.
 
-- Combine with ONS area classification data with NHS prescribing data.
+- Combine ONS area classification data with NHS prescribing data.
 
 - Perpare Met Office pollen count data.
 
