@@ -14,11 +14,11 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 
 
-<b>Part One </b>
+<u><b>Part One </b></u>
 - Interrogate the CKAN API using Requests and read the datasets using Pandas.
 - Discuss memory, storage and time inefficiencies of this method.
 
-Part Two
+<u><b>Part Two </b></u>
 - Use SQL for more efficiency than was seen in part one.
 - Combine with ONS area classification data with NHS prescribing data.
 - Perpare Met Office pollen count data.
