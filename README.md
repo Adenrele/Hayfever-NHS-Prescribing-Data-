@@ -13,11 +13,11 @@ Advising hayfever sufferers like myself on the best time to take preventative me
 Advising those that suffer from hayfever on when to begin to stock up on products.
 
 
-#Part One
+Part One
 - Interrogate the CKAN API using Requests and read the datasets using Pandas.
 - Discuss memory, storage and time inefficiencies of this method.
 
-#Part Two
+Part Two
 - Use SQL for more efficiency than was seen in part one.
 - Combine with ONS area classification data with NHS prescribing data.
 - Perpare Met Office pollen count data.
