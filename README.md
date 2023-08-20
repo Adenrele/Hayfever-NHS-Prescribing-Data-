@@ -23,7 +23,7 @@ Medium blog [here] (https://towardsdatascience.com/nhs-english-prescribing-data-
 
 <h3><b>Part Two </b></h3>
 
-Medium blog [here](https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-)
+Medium blog [here] (https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-)
 
 - Use SQL for more efficiency than was seen in part one.
 
