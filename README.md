@@ -15,7 +15,7 @@ Advising those that suffer from hayfever on when to begin to stock up on product
 
 <h3><b>Part One </b></h3>
 
-Medium blog [here] (https://towardsdatascience.com/nhs-english-prescribing-data-analysis-using-python-9d86ec610880)
+Medium blog [here](https://towardsdatascience.com/nhs-english-prescribing-data-analysis-using-python-9d86ec610880)
 
 - Interrogate the CKAN API using Requests and read the datasets using Pandas.
 
@@ -23,7 +23,7 @@ Medium blog [here] (https://towardsdatascience.com/nhs-english-prescribing-data-
 
 <h3><b>Part Two </b></h3>
 
-Medium blog [here] (https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-)
+Medium blog [here](https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-)
 
 - Use SQL for more efficiency than was seen in part one.
 
